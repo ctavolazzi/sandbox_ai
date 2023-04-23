@@ -14,11 +14,11 @@ This project is a lightweight [client-server application](https://en.wikipedia.o
   - Written in Node.js/JavaScript
   - Uses [Express.js](https://expressjs.com), a minimal backend server framework
 
-## ⚡️ Getting Started 
+## ⚡️ Getting Started
 To run this project:
 1. Copy the contents of `.env.example` to a new file named `.env` and fill in the required values
 2. Run `npm install` to install dependencies
-3. Run `npm run dev` to start the development server. 
+3. Run `npm run dev` to start the development server.
    1. This allows you to make changes to the code and see them reflected in your browser immediately without having to restart the server
 4. Open `localhost:3000` in your browser to view the project
 
@@ -33,3 +33,5 @@ If you liked this project, subscribe to our newsletter and follow us on social m
 - [GitHub](https://github.com/CodeSnippetHQ)
 - [Facebook](https://facebook.com/CodeSnippetHQ)
 - [Instagram](https://instagram.com/CodeSnippetHQ)
+
+This template is used with permission from CodeSnippet.io by TheCoffeeJesus
